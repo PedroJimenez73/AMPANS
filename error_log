@@ -1,0 +1,6 @@
+[25-Jun-2014 19:39:08 UTC] PHP Warning:  Illegal string offset 'url' in /home3/stavros/public_html/test/wp-content/themes/limitless/backend/helper.php on line 3357
+[25-Jun-2014 19:39:08 UTC] PHP Warning:  Illegal string offset 'width' in /home3/stavros/public_html/test/wp-content/themes/limitless/backend/helper.php on line 3357
+[25-Jun-2014 19:39:08 UTC] PHP Warning:  Illegal string offset 'height' in /home3/stavros/public_html/test/wp-content/themes/limitless/backend/helper.php on line 3357
+[25-Jun-2014 19:39:26 UTC] PHP Warning:  Illegal string offset 'url' in /home3/stavros/public_html/test/wp-content/themes/limitless/backend/helper.php on line 3357
+[25-Jun-2014 19:39:26 UTC] PHP Warning:  Illegal string offset 'width' in /home3/stavros/public_html/test/wp-content/themes/limitless/backend/helper.php on line 3357
+[25-Jun-2014 19:39:26 UTC] PHP Warning:  Illegal string offset 'height' in /home3/stavros/public_html/test/wp-content/themes/limitless/backend/helper.php on line 3357
